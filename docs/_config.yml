@@ -31,7 +31,7 @@ facebook_username: jounggj
 github_username:  jounggj
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
