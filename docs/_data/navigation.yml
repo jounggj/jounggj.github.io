@@ -3,11 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "ExoPlayer for Unity"
-    url: /product/exoplayer/#overview
+    url: /product/exoplayer/overview
   - title: "About"
     url: /about/contact/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 docs:
   - title: Introduction
@@ -18,11 +16,11 @@ docs:
   - title: ExoPlayer for Unity
     children:
       - title: "Overview"
-        url: /product/exoplayer/#overview
+        url: /product/exoplayer/overview
       - title: "Features & Limitations"
-        url: /product/exoplayer/#features
+        url: /product/exoplayer/features
       - title: "Importing & Using"
-        url: /product/importing/
+        url: /product/exoplayer/importing/
 
   - title: "About"
     children:

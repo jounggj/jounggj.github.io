@@ -1,18 +1,19 @@
 ---
+title: "Welcome to Palantiri"
 layout: single
+classes:
+  - landing
+  - dark-theme
 permalink: /
-sidebar:
-  nav: "docs"
-toc: true
-toc_label: "ToC"
+toc: false
+author_profile: true
+header:
+  image: /assets/images/home-splash.jpg
 ---
 
-# Welcome to Palantiri
+## Welcome to Palantiri
 
-## Item1
+I develop XR solution projects.
 
-## Item2
-
-### Item3
-
+- [ExoPlayer for Unity](/product/exoplayer/overview)
 
