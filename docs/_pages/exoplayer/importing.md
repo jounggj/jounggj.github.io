@@ -1,7 +1,7 @@
 ---
 title: "Importing ExoPlayer for Unity"
 layout: single
-permalink: /product/exoplayer/importing
+permalink: /product/exoplayer/importing/
 sidebar:
   nav: "docs"
 toc: true

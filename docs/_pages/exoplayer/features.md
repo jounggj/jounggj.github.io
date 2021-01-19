@@ -1,7 +1,7 @@
 ---
 title: "Features of ExoPlayer for Unity"
 layout: single
-permalink: /product/exoplayer/features
+permalink: /product/exoplayer/features/
 sidebar:
   nav: "docs"
 toc: true

@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "ExoPlayer for Unity"
-    url: /product/exoplayer/overview
+    url: /product/exoplayer/overview/
   - title: "About"
     url: /about/contact/
 
@@ -16,9 +16,9 @@ docs:
   - title: ExoPlayer for Unity
     children:
       - title: "Overview"
-        url: /product/exoplayer/overview
+        url: /product/exoplayer/overview/
       - title: "Features & Limitations"
-        url: /product/exoplayer/features
+        url: /product/exoplayer/features/
       - title: "Importing & Using"
         url: /product/exoplayer/importing/
 
