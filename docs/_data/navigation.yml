@@ -21,6 +21,8 @@ docs:
         url: /product/exoplayer/features/
       - title: "Importing & Using"
         url: /product/exoplayer/importing/
+      - title: "Sample Video Clips"
+        url: /product/exoplayer/videos/
 
   - title: "About"
     children:
