@@ -11,8 +11,6 @@ header:
   image: /assets/images/home-splash.jpg
 ---
 
-## Welcome to Palantiri
-
 I develop XR solution projects.
 
 - [ExoPlayer for Unity](/product/exoplayer/overview)

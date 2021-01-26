@@ -36,9 +36,9 @@ implementation 'com.google.android.exoplayer:exoplayer:2.12.2'
 1. Disable Multithreaded Rendering option
     - Edit --> Project Settings --> Other Settings --> **uncheck** `Multithreaded Rendering`
 
-1. Set Minimum API Level to API Level 29
+1. Set Minimum API Level to API Level 28 or later
     - Edit --> Project Settings --> Other Settings --> Minimum API Level
-    - set to API Level 29
+    - set to API Level 28 or later
 
 1. Enable Internet access to test sample scenes
     - Edit --> Project Settings --> Other Settings --> Internet Access
