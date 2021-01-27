@@ -11,7 +11,7 @@ toc_icon: "cog"
 
 ## Importing
 
-### Unity 2019.x
+### Unity 2019.2+
 
 1. Create or Open target Unity project
 
@@ -27,6 +27,14 @@ toc_icon: "cog"
 ```javascript
 implementation 'com.google.android.exoplayer:exoplayer:2.12.2'
 ```
+    - It will be look like this
+```javascript
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.android.exoplayer:exoplayer:2.12.2'
+**DEPS**}
+```
+
 
 1. Set Graphics API
     - Edit --> Project Settings --> Other Settings --> Graphics API
@@ -47,7 +55,7 @@ implementation 'com.google.android.exoplayer:exoplayer:2.12.2'
 
 ### Unity 2020.x
 
-1. Follow import instruction for Unity 2019.x
+1. Follow import instruction for Unity 2019.2+
 1. Enable Custom Base Gradle Template
     - Edit --> Project Settings --> Publishing Settings --> **check** `Custom Base Gradle Template`
     - Open `Assets/Plugins/Android/baseProjectTemplate.gradle` with any text editor, and change version of gradle plugin to **3.4.0**
