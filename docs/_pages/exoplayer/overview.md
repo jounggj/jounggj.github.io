@@ -18,7 +18,7 @@ feature_row:
 
 ## Overview
 
-**ExoPlayer for Unity** is an Unity asset to play video contents on Android devices using Android [ExoPlayer](https://exoplayer.dev/).
+**ExoPlayer for Unity** is an [Unity asset](https://assetstore.unity.com/packages/slug/187543) to play video contents on Android devices using Android [ExoPlayer](https://exoplayer.dev/).
 
 {% include feature_row %}
 
