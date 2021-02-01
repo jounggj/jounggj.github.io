@@ -22,7 +22,7 @@ toc_icon: "cog"
 
 ## Requirements
 - Supported Unity versions: Unity 2019.2 or later, Unity 2020.x
-- Supported Platform: Android (API level 28+)
+- Supported Platform: Android (API level 29+)
 
 
 ## Limitations
